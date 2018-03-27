@@ -1,0 +1,9 @@
+D:\VP\OurFirstApplication\OurFirstApplication\bin\Debug\OurFirstApplication.exe.config
+D:\VP\OurFirstApplication\OurFirstApplication\bin\Debug\OurFirstApplication.exe
+D:\VP\OurFirstApplication\OurFirstApplication\bin\Debug\OurFirstApplication.pdb
+D:\VP\OurFirstApplication\OurFirstApplication\obj\Debug\OurFirstApplication.csprojResolveAssemblyReference.cache
+D:\VP\OurFirstApplication\OurFirstApplication\obj\Debug\OurFirstApplication.Properties.Resources.resources
+D:\VP\OurFirstApplication\OurFirstApplication\obj\Debug\OurFirstApplication.csproj.GenerateResource.Cache
+D:\VP\OurFirstApplication\OurFirstApplication\obj\Debug\OurFirstApplication.exe
+D:\VP\OurFirstApplication\OurFirstApplication\obj\Debug\OurFirstApplication.pdb
+D:\VP\OurFirstApplication\OurFirstApplication\obj\Debug\OurFirstApplication.Form1.resources

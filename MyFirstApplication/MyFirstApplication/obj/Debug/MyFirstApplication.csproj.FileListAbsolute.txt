@@ -1,0 +1,6 @@
+D:\VP\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe.config
+D:\VP\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.exe
+D:\VP\MyFirstApplication\MyFirstApplication\bin\Debug\MyFirstApplication.pdb
+D:\VP\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.csprojResolveAssemblyReference.cache
+D:\VP\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.exe
+D:\VP\MyFirstApplication\MyFirstApplication\obj\Debug\MyFirstApplication.pdb

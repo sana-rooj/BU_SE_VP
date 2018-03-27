@@ -1,0 +1,6 @@
+D:\VP\DayPartIdentifier\DayPartIdentifier\bin\Debug\DayPartIdentifier.exe.config
+D:\VP\DayPartIdentifier\DayPartIdentifier\bin\Debug\DayPartIdentifier.exe
+D:\VP\DayPartIdentifier\DayPartIdentifier\bin\Debug\DayPartIdentifier.pdb
+D:\VP\DayPartIdentifier\DayPartIdentifier\obj\Debug\DayPartIdentifier.csprojResolveAssemblyReference.cache
+D:\VP\DayPartIdentifier\DayPartIdentifier\obj\Debug\DayPartIdentifier.exe
+D:\VP\DayPartIdentifier\DayPartIdentifier\obj\Debug\DayPartIdentifier.pdb

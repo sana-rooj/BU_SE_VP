@@ -1,0 +1,6 @@
+D:\VP\TypeCasting\TypeCasting\bin\Debug\TypeCasting.exe.config
+D:\VP\TypeCasting\TypeCasting\bin\Debug\TypeCasting.exe
+D:\VP\TypeCasting\TypeCasting\bin\Debug\TypeCasting.pdb
+D:\VP\TypeCasting\TypeCasting\obj\Debug\TypeCasting.csprojResolveAssemblyReference.cache
+D:\VP\TypeCasting\TypeCasting\obj\Debug\TypeCasting.exe
+D:\VP\TypeCasting\TypeCasting\obj\Debug\TypeCasting.pdb

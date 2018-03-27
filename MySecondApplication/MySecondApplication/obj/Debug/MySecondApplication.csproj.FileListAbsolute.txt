@@ -1,0 +1,6 @@
+D:\VP\MySecondApplication\MySecondApplication\bin\Debug\MySecondApplication.exe.config
+D:\VP\MySecondApplication\MySecondApplication\bin\Debug\MySecondApplication.exe
+D:\VP\MySecondApplication\MySecondApplication\bin\Debug\MySecondApplication.pdb
+D:\VP\MySecondApplication\MySecondApplication\obj\Debug\MySecondApplication.csprojResolveAssemblyReference.cache
+D:\VP\MySecondApplication\MySecondApplication\obj\Debug\MySecondApplication.exe
+D:\VP\MySecondApplication\MySecondApplication\obj\Debug\MySecondApplication.pdb

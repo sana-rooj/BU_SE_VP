@@ -1,0 +1,11 @@
+D:\VP\Delegates\Delegates\bin\Debug\Delegates.exe.config
+D:\VP\Delegates\Delegates\bin\Debug\Delegates.exe
+D:\VP\Delegates\Delegates\bin\Debug\Delegates.pdb
+D:\VP\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+D:\VP\Delegates\Delegates\obj\Debug\Delegates.Properties.Resources.resources
+D:\VP\Delegates\Delegates\obj\Debug\Delegates.csproj.GenerateResource.Cache
+D:\VP\Delegates\Delegates\obj\Debug\Delegates.exe
+D:\VP\Delegates\Delegates\obj\Debug\Delegates.pdb
+D:\VP\Delegates\Delegates\obj\Debug\Delegates.MainForm.resources
+D:\VP\Delegates\Delegates\obj\Debug\Delegates.SecondForm.resources
+D:\VP\Delegates\Delegates\bin\Debug\data.txt
